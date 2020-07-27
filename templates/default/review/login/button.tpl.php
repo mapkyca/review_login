@@ -21,6 +21,19 @@ if (!empty($buttons[0])) {
     </div>
     
 </div>
+
+<div class="row">
+    
+    <div class="col-md-6 col-md-offset-3 text-center">
+	<div class="col-md-10 col-md-offset-1">
+
+	    
+	    <h3>Or log in with ...</h3>
+	    
+	</div>
+    </div>
+    
+</div>
     
     <?php
 }
