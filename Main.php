@@ -53,7 +53,7 @@ class Main extends \Idno\Common\Plugin {
                         $user = \IdnoPlugins\OAuth2Client\Main::getUser(
                                 $data['context'], 
                                 $userdata['id'], 
-                                $userdata['email'], 
+                                $userdata['id'], 
                                 $userdata['name'], 
                                 $userdata['email']);
                         
