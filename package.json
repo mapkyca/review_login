@@ -1,10 +1,10 @@
 {
-  "name": "ReviewLogin",
-  "version": "1.0.0",
-  "description": "Review OAuth login extensions",
-  "devDependencies": {
-    "grunt": "^1.0.3",
-    "grunt-sass": "^3.1.0",
-    "node-sass": "^4.12.0"
-  }
+    "name": "ReviewLogin",
+    "version": "1.0.1",
+    "description": "Review OAuth login extensions",
+    "devDependencies": {
+        "grunt": "^1.0.3",
+        "grunt-sass": "^3.1.0",
+        "node-sass": "^4.12.0"
+    }
 }
