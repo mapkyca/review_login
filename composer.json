@@ -2,7 +2,7 @@
     "name": "mapkyca/review_login",
     "description": "Review OAuth login extensions",
     "type": "known-plugin",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "require": {
         "composer/installers": "~1.0"
     },
